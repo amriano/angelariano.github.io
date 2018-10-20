@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Training
+title: Doggie Training
 subtitle: Would You Like Me To Train Your Doggie?
 bigimg:
   - "/img/big-imgs/train.jpeg"
 ---
 
-### I can train your dog if
+### I Would Love to Train Your Doggie
 
-- You have all your pets's vaccination recods
-- He/she is under 50 pounds
+I can teach your doggie some tricks, and he/she will have logs of fun.
 
