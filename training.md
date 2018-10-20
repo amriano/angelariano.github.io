@@ -8,6 +8,6 @@ bigimg:
 
 ### I can train your dog if
 
-- You have all pets's vaccination recods
-- He/She is under 50 pounds
+- You have all your pets's vaccination recods
+- He/she is under 50 pounds
 
